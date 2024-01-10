@@ -4,6 +4,7 @@ Homepage:
 ![image](https://github.com/LeanderNathan/crop_prediction/assets/40952127/884a2913-33c2-4652-830b-606b567c483c)
 
 Services Added:
+
 ![image](https://github.com/LeanderNathan/crop_prediction/assets/40952127/0dfc798f-ba9b-4bcc-ad4e-4cdf547d5847)
 
 Crop Recommendation:
